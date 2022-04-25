@@ -3,27 +3,27 @@
 .box{width:100%;
 	 height:1000px;
 	 background:no-repeat center center fixed;}
-.box1{background-image:url(%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/h-12.jpg);
+.box1{background-image:url(../%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/h-24.jpg);
 overflow:hidden;
 width:2000px;
 height:900px;}
-.box2{background-image:url(%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/h-8.jpg);
+.box2{background-image:url(../%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/h-8.jpg);
 overflow:hidden;
 width:2000px;
 height:900px;}
-.box3{background-image:url(%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/h-13.jpg);
+.box3{background-image:url(../%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/h-13.jpg);
 overflow:hidden;
 width:2000px;
 height:900px;}
-.box4{background:#666 url(%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/bg.png) no-repeat center bottom;
+.box4{background:#666 url(../%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/bg.png) no-repeat center bottom;
 overflow:hidden;
 width:2000px;
 height:900px;}
-.box5{background-image:url(%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/h-24.jpg);
+.box5{background-image:url(../%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/h-24.jpg);
 overflow:hidden;
 width:2000px;
 height:900px;}
-.box6{background-image:url(%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/h-21.jpg);
+.box6{background-image:url(../%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/h-21.jpg);
 overflow:hidden;
 width:2000px;
 height:900px;}
@@ -443,7 +443,7 @@ color:#999999;}
 	float:left;}
 .box7 .wz{height: 100px;
 			float:left;}
-.box7 .wz1{background-image:url(//c1.mifile.cn/f/i/16/mi5/index/h-20.png);
+.box7 .wz1{background-image:url(../%E4%BD%9C%E4%B8%9A1%E5%9B%BE%E7%89%87/h-20.png);
 	 	   height: 80px;
     	   width: 480px;
 		   margin-bottom:10px;
